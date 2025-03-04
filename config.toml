@@ -1,8 +1,8 @@
-base_url = "https://log.preranasubedi.com.np"
+base_url = "https://ethereal.carboxi.de"
 
 # about me
-author ="(me@preranasubedi.com.np) Prerana Subedi"
-title = "sunakhari's logs"
+author ="(prasanganiraula2016@gmail.com) Prasanga Niraula"
+title = "Ethereal's logs"
 description = "I just write things."
 
 # disable sass and search index
@@ -25,6 +25,6 @@ highlight_theme = "base16-ocean-light"
 
 # extra stuff
 [extra]
-email = "me@preranasubedi.com.np"
+email = "prasanganiraula2016@gmail.com"
 profile = "/thumbnail.png"
 note = "I just love to write, that's all."
