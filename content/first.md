@@ -7,4 +7,4 @@ tags = ["template", "first"]
 
 First post, beach!
 
-[_Cool stuff! ;)_]
+[_Cool stuff,windows! ;)_]
