@@ -1,10 +1,8 @@
 +++
-title = "Questions unanswered"
+title = "Questions unanswered?"
 date = 2025-03-05T17:42:00+05:45
 [taxonomies]
 +++
-##                lust
-## Was it just ~~love~~?
 
 What was that brief moment of sparkle that ignited into nothing?
 
