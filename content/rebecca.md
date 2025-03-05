@@ -14,4 +14,4 @@ The vivid imagery of Manderley and its vicinity with its melancholic undertones 
 The narrative unfolds in layers keeping the ignition just enough to push through the pages in no time. Simplicity of the language used in this timeless masterpiece adds more appeal to it. The symbolic use of dark atmosphere and iconic Manderley establishes some sense of proximity with the gloomy secrets buried deep in the abyss of the atmosphere of Manderley itself. Shades of grey within the characters, the atmospheric setting and the theme of story itself makes it an interesting read for someone seeking thrill within words. Rebecca, being a timeless classic surviving critiques and criticisms through the course of time across generation of readers deserves a chance to be read by people who love the way with words. So, it is a must-read classic and recommended to everyone who adores reading.
 
 
-[_Cool stuff! ;)_]
+[_Cool stuff!,windows ;)_]
