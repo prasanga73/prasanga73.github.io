@@ -2,6 +2,7 @@
 title = "Hopeful or Hopefool"
 date = 2025-03-06T10:21:00+05:45
 [taxonomies]
+tags = ["Excerpt from my heart"]
 +++
 
 I had this little hope for the longest time. A small glimmer of faith. That little thing in me, it often whispered to me in a hushed tone. Whispers of reconciliation when I spiraled down too deep. Whispers of better days when moments felt bleak and eerie. Those whispers gave me warmth. Like the embrace of sun rays in cold grips of winter. They pulled scattered fragments of me back together in one piece- making me believe that it would turn pretty again. 
