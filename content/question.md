@@ -12,4 +12,4 @@ But, what if our limited senses are the ones constricting our ability to convers
 
 While I may not fully grasp the concept of a higher figure, I also do not object it. If serving someone higher brings us love and tranquility, then being a believer isn’t so bad. If we strip ourselves of all the experiences we have had, all the ideas we embraced, and unlearn every tendencies we gathered, love is the only thing that makes sense. So, “ Why are we here?” meets with [_“ To let love flow in our veins”_]   in the quiet corners of my mind.
 
-[_ Krishna Krishna!;)_]
+[_Krishna Krishna!;)_]
