@@ -1,6 +1,6 @@
 +++
 title = "The Dark Triad"
-date = 2025-02-16T01:38:26+05:45
+date = 2025-03-16T01:38:26+05:45
 [taxonomies]
 tags = ["mind", "psychology"]
 +++
