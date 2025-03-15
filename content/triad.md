@@ -18,4 +18,4 @@ For me, this fascination for psychology stems from an urge to explore into the m
 The horizon has begun to charcoal and the clock shows almost 6 pm. I have no energy to write further. So, I would like to mark this abrupt ending as a style of writing where the writer urges the readers’ imagination to take control. 
 
 
-[_ Quote of the day: I love all that you are but you love all that I aren't_]
+[_Quote of the day: I love all that you are but you love all that I aren't_]
