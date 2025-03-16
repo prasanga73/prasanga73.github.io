@@ -15,7 +15,7 @@ Finally, comes the cold and ruthless, psychopathy. The trait which regards no em
 
 For me, this fascination for psychology stems from an urge to explore into the mysterious realm of human subconscious. Partly to understand the primal aspect  of my psyche too. Among the dark triad, the trait that taps deep into my curiosity is psychopathy. Dive deep into your inner being and ask yourself- what is it about emotional detachment and lack of empathy that captures your imaginative mind? And, have you ever wondered how would it feel to be unfazed by emotions? Even from those springing from our primal instincts.  How would that experience of blunted internal response be like? It adds an element of uncertainty, an air of mystery to it. Psychopathy, to me feels like a restricted or a secluded region where even light feigns ignorance. And, all that is denied is all what a human seeks. I so happened to be a human too, ahahaha.
 
-The horizon has begun to charcoal and the clock shows almost 6 pm. I have no energy to write further. So, I would like to mark this abrupt ending as a style of writing where the writer urges the readers’ imagination to take control. 
+The horizon has begun to charcoal and the clock shows almost 6 pm. I have no energy to write further. So, I would like to mark this abrupt ending as a style of writing where the writer urges the readers’ imagination to take control. Adios!
 
 
 [_Quote of the day: I love all that you are but you love all that I aren't_]
