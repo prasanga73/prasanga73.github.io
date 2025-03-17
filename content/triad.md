@@ -5,7 +5,7 @@ date = 2025-03-16T01:38:26+05:45
 tags = ["mind", "psychology"]
 +++
 
-Psychology always fascinated me. I take a great deal of pleasure in navigating the mindscape of people associated with the dark triad- narcissism, Machiavellianism and psychopathy. Informing myself with such knowledge is a relentless and pleasurable pursuit for me. It stirs my psyche with an unexplainable amount of thrill and insanity. Deconstructing the behavioural pattern and bridging the gap between thoughts and actions makes me feel omniscient for a fleeting moment. Maybe it’s the dopamine shooting beyond its limits. But, who cares? 
+Psychology always fascinated me. I take a great deal of pleasure in navigating the mindscape of people associated with the dark triad- narcissism, Machiavellianism and psychopathy. Informing myself with such knowledge is a relentless and pleasurable pursuit for me. It stirs my psyche with an unexplainable amount of thrill and insanity. Deconstructing the behavioural pattern and bridging the gap between thoughts and actions makes me feel omniscient for a fleeting moment. Maybe it’s the dopamine shooting beyond its limit. But, who cares? 
 
 So, let’s take a brief walk into the world of dark triad now, shall we? Narcissist (Narcissism) , a term often used as an insult to infuriate someone simply means for a person with an excessive preoccupation with oneself and one’s own needs. Like the infamous Tom Riddle(Voldemort) from our beloved childhood nostalgia, Harry Potter. A narcissist, in plain observation from a distance, seems to have very fanciful obsessions with his own regards.
 
