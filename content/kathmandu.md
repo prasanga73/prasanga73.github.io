@@ -11,6 +11,6 @@ It was winter. Kathmandu was cold and lonely, a city that stirred sadness in my 
 
 The colours of city bled like shades of unholy grays with a skin of cruelty. Winter was stepping towards its apex with a slow-burn. The dry and suffocating air spelled unease and intrigue. It searched for traces of melancholy hidden within me. The chills of the wintery breeze conquered me vulnerable. Then, meddled with my already grieving fragments of heart. 
 
-My eyes that had long forgotten the cries of my heart let the swelling sorrows free. They traced warm paths trailing to my bed. I couldn't escape it. I sat there helpless, waiting for it to end. It did end, but after forging a new narrative in my mind,"सपना र शुन्यताको शहर, काठमाडौं!"
+My eyes that had long forgotten the cries of my heart let the swelling sorrows free. They traced warm paths trailing to my bed. I couldn't escape it. I sat there helpless, waiting for it to end. It did end, but after forging a new narrative in my mind,<span style="font-size: smaller;">"सपना र शुन्यताको शहर, काठमाडौं!"</span>
 
 [_Quote of the day: Is autumn cruel for letting flowers die or is that just nature's way?(Leonard Hofstader)_]
