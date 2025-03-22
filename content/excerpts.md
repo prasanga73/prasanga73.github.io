@@ -90,7 +90,7 @@ A beautiful girl, not only by the outlook of her but also by the actions that de
 Love, the main theme of poetry has served its true essence to me. She radiates feelings I never asked for but always wanted. "Falling in love", I finally understood the closure and proximity of this sentence. Hope that the fate will always favour a pretty smile on her face and equanimity in her heart. Feelings I share may not be mutual so the precious relationship and bond we share as humans and a social being is all I ask for. 
 
 
-<div class="quote">[_Epiphany is what she likes to call herself and epiphany is what she is to me._]</div>
+<div class="quote">Epiphany is what she likes to call herself and epiphany is what she is to me</div>
 </div>
 
 <div class="sky-note">
@@ -100,7 +100,7 @@ That freezing evening had etched its occurrences onto my heart. The evening I wo
 
 The plethora of emotions I felt that evening questioned my sanity. "How could someone make me feel so serene without ever realizing it? What kind of dark sorcery did she know?", I wondered letting a slight chuckle out of my mouth like a lovefool. And, in that very moment, I lost myself to her.
 
-<div class="quote">[_Even when the eternal flames of sky grow dim to perish, I shall still find sparkle in you_]</div>
+<div class="quote">Even when the eternal flames of sky grow dim to perish, I shall still find sparkle in you</div>
 </div>
 
 I am just a romantic. Don't judge me. Okay?
