@@ -16,7 +16,7 @@ tags = ["mi amor"]
     position: relative;
     line-height: 1.7;
     color: #333;
-    font-size: 0.89em;
+    font-size: 0.82em;
     overflow: hidden;
     position: relative;
     font-style: italic;
@@ -101,7 +101,9 @@ But then, there are those few who made you feel alive. They breathed life into y
 <div class="sky-note">
 <div class="date">25th of June, 2022</div> 
 
-A beautiful girl, not only by the outlook of her but also by the actions that define her. Be it her pretty face or her wandering eyes that window the depth of her soul. Her mesmerizing smile, caramel like lips and short brown hair makes me feel like an empty bottle filling slowly with bubbling joy of life that will eventually pass the brim and beyond. She makes me feel the tenderness of a breeze. Breeze with a mellow warmth of the sun. She pours in me, the ecstasy of being alive and yet she doesn't even know it. She loves reading books of romance and love. But, I love reading the pages of her. Colleen Hoover, her favourite writer. I wanna read heart throbbing stories of Colleen Hoover draped in her arms. She loves to write, loves creating life in her words. I wanna be a life of her tranquil world. 
+A beautiful girl, not only by the outlook of her but also by the actions that define her. Be it her pretty face or her wandering eyes that window the depth of her soul. Her mesmerizing smile, caramel like lips and short brown hair makes me feel like an empty bottle filling slowly with bubbling joy of life that will eventually pass the brim and beyond. She makes me feel the tenderness of a breeze. Breeze with a mellow warmth of the sun. 
+
+She pours in me, the ecstasy of being alive and yet she doesn't even know it. She loves reading books of romance and love. But, I love reading the pages of her. Colleen Hoover, her favourite writer. I wanna read heart throbbing stories of Colleen Hoover draped in her arms. She loves to write, loves creating life in her words. I wanna be a life of her tranquil world. 
 
 Love, the main theme of poetry has served its true essence to me. She radiates feelings I never asked for but always wanted. "Falling in love", I finally understood the closure and proximity of this sentence. Hope that the fate will always favour a pretty smile on her face and equanimity in her heart. Feelings I share may not be mutual so the precious relationship and bond we share as humans and a social being is all I ask for. Epiphany is what she likes to call herself and epiphany is what she is to me.
 </div>
