@@ -18,20 +18,37 @@ tags = ["mi amor"]
     color: #333;
     font-size: 0.92em;
     overflow: hidden;
+    position: relative;
+    font-style: italic;
 }
 
-/* Corner wrap effect */
-/* .sky-note::after {
+.sky-note::before {
     content: '';
     position: absolute;
     bottom: 0;
     right: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 40px 40px;
+    border-color: transparent transparent #c9e4f9 transparent;
+    box-shadow: -3px -3px 5px rgba(0, 0, 0, 0.05);
+    z-index: 2;
+}
+
+/* Add a shadow line to enhance the fold appearance */
+.sky-note::after {
+    content: '';
+    position: absolute;
+    bottom: 40px;
+    right: 0;
     width: 40px;
-    height: 40px;
-    background: linear-gradient(135deg, transparent 50%, #c9e4f9 50%);
-    box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.1);
-    border-radius: 0 0 6px 0;
-} */
+    height: 1px;
+    background: rgba(0, 0, 0, 0.07);
+    transform: rotate(-45deg);
+    transform-origin: bottom right;
+    z-index: 3;
+}
 
 .sky-note .date {
     font-style: italic;
