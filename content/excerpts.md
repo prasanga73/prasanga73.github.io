@@ -22,7 +22,7 @@ tags = ["mi amor"]
     font-style: italic;
 }
 
-.sky-note::before {
+/* .sky-note::before {
     content: '';
     position: absolute;
     bottom: 0;
@@ -34,10 +34,10 @@ tags = ["mi amor"]
     border-color: transparent transparent #c9e4f9 transparent;
     box-shadow: -3px -3px 5px rgba(0, 0, 0, 0.05);
     z-index: 2;
-}
+} */
 
 /* Add a shadow line to enhance the fold appearance */
-.sky-note::after {
+/* .sky-note::after {
     content: '';
     position: absolute;
     bottom: 40px;
@@ -48,11 +48,10 @@ tags = ["mi amor"]
     transform: rotate(-45deg);
     transform-origin: bottom right;
     z-index: 3;
-}
+} */
 
 .sky-note .date {
     font-style: italic;
-    font-weight: bold;
     margin-bottom: 14px;
     color: #1a5f8c;
     border-bottom: 1px dotted rgba(74, 158, 216, 0.3);
@@ -105,10 +104,9 @@ But then, there are those few who made you feel alive. They breathed life into y
 A beautiful girl, not only by the outlook of her but also by the actions that define her. Be it her pretty face or her wandering eyes that window the depth of her soul. Her mesmerizing smile, caramel like lips and short brown hair makes me feel like an empty bottle filling slowly with bubbling joy of life that will eventually pass the brim and beyond. She makes me feel the tenderness of a breeze. Breeze with a mellow warmth of the sun. She pours in me, the ecstasy of being alive and yet she doesn't even know it. She loves reading books of romance and love. But, I love reading the pages of her. Colleen Hoover, her favourite writer. I wanna read heart throbbing stories of Colleen Hoover draped in her arms. She loves to write, loves creating life in her words. I wanna be a life of her tranquil world. 
 
 Love, the main theme of poetry has served its true essence to me. She radiates feelings I never asked for but always wanted. "Falling in love", I finally understood the closure and proximity of this sentence. Hope that the fate will always favour a pretty smile on her face and equanimity in her heart. Feelings I share may not be mutual so the precious relationship and bond we share as humans and a social being is all I ask for. 
-
-
-<div class="quote">Epiphany is what she likes to call herself and epiphany is what she is to me</div>
 </div>
+
+[_Epiphany is what she likes to call herself and epiphany is what she is to me_]
 
 <div class="sky-note">
 <div class="date">17th of May, 2024</div>
@@ -116,8 +114,8 @@ Love, the main theme of poetry has served its true essence to me. She radiates f
 That freezing evening had etched its occurrences onto my heart. The evening I would never dare to forget. The gentle and blushful laughs I was surrounded with. Those moments had a special light to them, like an old place where comfort finds you. 
 
 The plethora of emotions I felt that evening questioned my sanity. "How could someone make me feel so serene without ever realizing it? What kind of dark sorcery did she know?", I wondered letting a slight chuckle out of my mouth like a lovefool. And, in that very moment, I lost myself to her.
-
-<div class="quote">Even when the eternal flames of sky grow dim to perish, I shall still find sparkle in you</div>
 </div>
+
+[_Even when the eternal flames of sky grow dim to perish, I shall still find sparkle in you_]
 
 I am just a romantic. Don't judge me. Okay?
