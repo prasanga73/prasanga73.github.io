@@ -5,86 +5,76 @@ date = 2025-03-22T01:38:26+05:45
 tags = ["mi amor"]
 +++
 <style>
-.elegant-note {
-    background-color: #fdfaf1;
-    border-left: 4px solid #e6b422;
+.sky-note {
+    background-color: #f0f8ff;
+    border-left: 4px solid #4a9ed8;
     border-radius: 6px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-    padding: 24px 28px;
-    margin: 30px 0;
+    box-shadow: 0 4px 10px rgba(74, 158, 216, 0.15);
+    padding: 20px 24px;
+    margin: 24px 0;
     font-family: 'Georgia', serif;
     position: relative;
-    line-height: 1.8;
-    color: #4a4a4a;
+    line-height: 1.7;
+    color: #333;
+    font-size: 0.95em;
+    overflow: hidden;
 }
 
-.elegant-note::before {
-    content: '✦';
-    position: absolute;
-    top: -12px;
-    left: 20px;
-    background-color: #fdfaf1;
-    padding: 0 12px;
-    font-size: 18px;
-    color: #e6b422;
-}
-
-.elegant-note::after {
+/* Corner wrap effect */
+.sky-note::after {
     content: '';
     position: absolute;
     bottom: 0;
-    right: 20px;
-    width: 80px;
-    height: 30px;
-    background-image: linear-gradient(120deg, #e6b422 30%, transparent 30%);
-    background-size: 10px;
-    opacity: 0.1;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, transparent 50%, #c9e4f9 50%);
+    box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.1);
     border-radius: 0 0 6px 0;
 }
 
-.elegant-note .date {
+.sky-note .date {
     font-style: italic;
     font-weight: bold;
-    margin-bottom: 16px;
-    color: #816914;
-    border-bottom: 1px dotted #e6b42240;
-    padding-bottom: 8px;
-    font-size: 1.1em;
+    margin-bottom: 14px;
+    color: #1a5f8c;
+    border-bottom: 1px dotted rgba(74, 158, 216, 0.3);
+    padding-bottom: 6px;
+    font-size: 1em;
 }
 
-.elegant-note .quote {
+.sky-note .quote {
     font-style: italic;
     text-align: center;
-    color: #777;
-    margin: 20px 0;
-    padding: 10px 25px;
+    color: #4a7b9d;
+    margin: 16px 0;
+    padding: 8px 20px;
     position: relative;
+    font-size: 0.95em;
 }
 
-.elegant-note .quote::before,
-.elegant-note .quote::after {
+.sky-note .quote::before,
+.sky-note .quote::after {
     content: '"';
-    font-size: 28px;
-    color: #e6b42280;
+    font-size: 22px;
+    color: rgba(74, 158, 216, 0.5);
     position: absolute;
 }
 
-.elegant-note .quote::before {
+.sky-note .quote::before {
     top: 0;
     left: 0;
 }
 
-.elegant-note .quote::after {
+.sky-note .quote::after {
     bottom: 0;
     right: 0;
 }
 
-/* Paper texture */
-.elegant-note {
-    background-image: 
-        linear-gradient(90deg, rgba(0,0,0,0.02) 1px, transparent 1px),
-        linear-gradient(0deg, rgba(0,0,0,0.01) 1px, transparent 1px);
-    background-size: 20px 20px, 100% 28px;
+/* Subtle paper lines */
+.sky-note {
+    background-image: linear-gradient(0deg, rgba(74, 158, 216, 0.03) 1px, transparent 1px);
+    background-size: 100% 24px;
 }
 </style>
 You meet so many people in your life. In a way or other, they become a part of you shaping you into the very self you are today. You may have memories of them in various light. Some you remember vividly and some with vague details. You might not remember the things you said, things they conversed back, the meals you enjoyed together, the gossips you shared, but what you can never forget is the way they made you feel. Even the weight of time couldn't erase it. 
