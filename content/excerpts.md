@@ -84,7 +84,7 @@ tags = ["mi amor"]
 
 .sky-note .quote::after {
     bottom: 0;
-    right: 5px;
+    right: 15px;
 }
 
 /* Subtle paper lines */
