@@ -16,12 +16,12 @@ tags = ["mi amor"]
     position: relative;
     line-height: 1.7;
     color: #333;
-    font-size: 0.95em;
+    font-size: 0.92em;
     overflow: hidden;
 }
 
 /* Corner wrap effect */
-.sky-note::after {
+/* .sky-note::after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -31,7 +31,7 @@ tags = ["mi amor"]
     background: linear-gradient(135deg, transparent 50%, #c9e4f9 50%);
     box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.1);
     border-radius: 0 0 6px 0;
-}
+} */
 
 .sky-note .date {
     font-style: italic;
