@@ -93,7 +93,7 @@ tags = ["mi amor"]
     background-size: 100% 24px;
 }
 </style>
-You meet so many people in your life. In a way or other, they become a part of you shaping you into the very self you are today. You may have memories of them in various light. Some you remember vividly and some with vague details. You might not remember the things you said, things they conversed back, the meals you enjoyed together, the gossips you shared, but what you can never forget is the way they made you feel. Even the weight of time couldn't erase it. 
+How many people have you met so far in your life? I highly doubt that anyone has kept track of it. If you have then congrats, you are insane. Us normal people wouldn't know, so let's call it many. You meet many people in your life. In a way or other, they become a part of you shaping you into the very self you are today. You may have memories of them in various light. Some you remember vividly and some with vague details. You might not remember the things you said, things they conversed back, the meals you enjoyed together, the gossips you shared, but what you can never forget is the way they made you feel. Even the weight of time couldn't erase it. 
 
 But then, there are those few who made you feel alive. They breathed life into your heart. They radiated a light which pierced your soul in the very heart of gentleness. Here are some excerpts about such people who knowingly or unknowingly tended to my inner being and taught me ways to live. Live in a sense beyond the dull rituals of survival.
 
