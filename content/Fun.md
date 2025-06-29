@@ -2,7 +2,7 @@
 title = "Life of the party"
 date = 2025-06-08T01:38:26+05:45
 [taxonomies]
-tags = ["introspection", "life"]
+tags = ["introspection"]
 +++
 
 What would be your definition of a party? Ease your mind into the idea of having fun for you. Contemplate for a brief moment about it. Okay, that’s enough. Come back to reality now. For some people, the notion of having fun may be loud music and rather electrifying dance in a gathering of friends and family while a fraction of others might prefer drinking and deloading. Some of us are also thrilled with the concept of camping under the starry sky. But then, among the myriad of choices, there is an another class of people who like the mundane, with a very ordinary idea of having fun. [_Well, I have slipped into being one of them, happily sadly ._]
