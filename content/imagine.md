@@ -1,5 +1,5 @@
 +++
-title = "Future I never wanted!"
+title = "The future I never wanted!"
 date = 2025-08-01T01:38:26+05:45
 [taxonomies]
 tags = ["imaginary"]
