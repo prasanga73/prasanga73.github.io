@@ -1,6 +1,6 @@
 +++
 title = "Beyond Love"
-date = 2026-09-12T12:30:26+05:45
+date = 2026-09-12T01:30:26+05:45
 [taxonomies]
 tags = ["epiphany", "transcendence"]
 +++
