@@ -1,5 +1,5 @@
 +++
-title = "A fleeting closure?"
+title = "A fleeting closure"
 date = 2025-03-05T17:50:00+05:45
 [taxonomies]
 +++
